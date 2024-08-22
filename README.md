@@ -46,6 +46,7 @@ To view or modify this project locally, follow these steps:
   Open your browser and navigate to `http://localhost:3000` to view the site.
 
 ## Project Video
+https://github.com/user-attachments/assets/e2706f80-799f-47cd-97eb-2030350ce56c
 
 ## Project Images (Figma Design)
 
