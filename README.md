@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Finsweet: Figma to Website Project 🌐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project involves transforming a Figma design for Finsweet into a fully functional website. The site replicates the design provided in Figma, using React, JavaScript, CSS, and HTML to create a visually appealing and interactive experience.
 
-## Available Scripts
+## Description
+This project involved translating a Figma design into a responsive website using modern web technologies. Key features include:
+- **Design Implementation**: A React application based on a Figma design.
+- **Blog Section**: Displays the latest 9 posts from a JSON file, excluding the trending post.
+- **Interactive Components**:  Navigation, blog posts, and footer elements designed to match the Figma mockups.
+The project demonstrates my ability to convert design concepts into interactive and user-friendly web applications.
 
-In the project directory, you can run:
+## Technologies Used
+- JavaScript
+- React
+- HTML
+- CSS
+- JSON (for blog data management)
 
-### `npm start`
+## Environment Used
+- Windows 10
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Figma Design
+Designed by Mayank, here is the [Finsweet design](https://www.figma.com/community/file/1368137469642774653/finsweet-web)
+  
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Explore the live website: [Finsweet](https://schneidercjpfs.netlify.app/)
 
-### `npm test`
+## Installation and Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To view or modify this project locally, follow these steps:
+  ### 1. Clone the Repository:
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
+    ```
+  ### 2. Install Dependencies:
+    ```bash
+    npm install
+    ```
+  ### 3. Run the Project:
+    ```bash
+    npm start
+    ```
+  ### 4. View the Project:
+  Open your browser and navigate to `http://localhost:3000` to view the site.
 
-### `npm run build`
+## Project Video
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project Images (Figma Design)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  Landing Page: <br/>
+  <img src="https://i.imgur.com/SqDZuvd.jpeg" height="50%" width="50%" alt="Landing Page Image"/>
+  <br /><br />
+  Product Page: <br/>
+  <img src="https://i.imgur.com/DhK1fgA.jpeg" height="50%" width="50%" alt="Product Page Image"/>
+  <br /><br />
+  Pricing Page: <br/>
+  <img src="https://i.imgur.com/gZCK5Ca.png" height="50%" width="50%" alt="Pricing Page Image"/>
+  <br /><br />
+  Contact Page: <br/>
+  <img src="https://i.imgur.com/x3iBXq7.png" height="50%" width="50%" alt="Contact Page Image"/>
+  <br /><br />
+  About Us Page: <br/>
+  <img src="https://i.imgur.com/eBRYftk.jpeg" height="50%" width="50%" alt="About Us Page Image"/>
+  <br /><br />
+  Blog Page: <br/>
+  <img src="https://i.imgur.com/L0TSYav.jpeg" height="50%" width="50%" alt="Blog Page Image"/>
+  <br /><br />
+  Blog Post Page: <br/>
+  <img src="https://i.imgur.com/pJDAKDm.jpeg" height="50%" width="50%" alt="Blog Post Image"/>
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Contact
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For any inquiries or feedback, please contact me at [SchneiderCJP@gmail.com](mailto:schneidercjp@gmail.com).
